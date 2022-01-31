@@ -41,4 +41,4 @@ This here program can simplify your life. By typing
 ```print("YOU NOW HAVE MORE MONEY")```
 , you can pretend you have money. Be happy :)
 
-![can't see this? install not-a-virus-image-viewer today!](https://github.com/BorisPlaceholder/BorisPlaceholder.github.io/blob/main/huntermonster.jpg?raw=true "THIS IS MONSTER HUNTER RISE!")
+![can't see this? install not-a-virus-image-viewer today!](/BorisPlaceholder/markdown1/blob/main/huntermonster.jpg?raw=true "THIS IS MONSTER HUNTER RISE!")
